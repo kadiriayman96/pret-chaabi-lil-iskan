@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1710001804 source:c:\users\mugiwara\desktop\mern stack\language c algorithme\calcul_pret_immobilier\main.c
+	<stdio.h>
+	<stdbool.h>
+
